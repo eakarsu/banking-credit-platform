@@ -1,0 +1,2075 @@
+{
+  "mapped": [
+    {
+      "project": "ai-consumer-lending-fee-refund-compliance",
+      "sourceKey": "product-agreement-library",
+      "source": "/Volumes/external/projects/ai-consumer-lending-fee-refund-compliance/app.config.mjs",
+      "canonical": "product-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-consumer-lending-fee-refund-compliance",
+      "sourceKey": "fee-schedule-versioning",
+      "source": "/Volumes/external/projects/ai-consumer-lending-fee-refund-compliance/app.config.mjs",
+      "canonical": "fee-schedule-versioning",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-consumer-lending-fee-refund-compliance",
+      "sourceKey": "account-transaction-ingestion",
+      "source": "/Volumes/external/projects/ai-consumer-lending-fee-refund-compliance/app.config.mjs",
+      "canonical": "account-transaction-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-consumer-lending-fee-refund-compliance",
+      "sourceKey": "late-fee-validation",
+      "source": "/Volumes/external/projects/ai-consumer-lending-fee-refund-compliance/app.config.mjs",
+      "canonical": "late-fee-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-consumer-lending-fee-refund-compliance",
+      "sourceKey": "nsf-fee-sequence-analysis",
+      "source": "/Volumes/external/projects/ai-consumer-lending-fee-refund-compliance/app.config.mjs",
+      "canonical": "nsf-fee-sequence-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-consumer-lending-fee-refund-compliance",
+      "sourceKey": "convenience-fee-review",
+      "source": "/Volumes/external/projects/ai-consumer-lending-fee-refund-compliance/app.config.mjs",
+      "canonical": "convenience-fee-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-consumer-lending-fee-refund-compliance",
+      "sourceKey": "add-on-product-consent",
+      "source": "/Volumes/external/projects/ai-consumer-lending-fee-refund-compliance/app.config.mjs",
+      "canonical": "add-on-product-consent",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-consumer-lending-fee-refund-compliance",
+      "sourceKey": "military-status-protections",
+      "source": "/Volumes/external/projects/ai-consumer-lending-fee-refund-compliance/app.config.mjs",
+      "canonical": "military-status-protections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-consumer-lending-fee-refund-compliance",
+      "sourceKey": "state-cap-validation",
+      "source": "/Volumes/external/projects/ai-consumer-lending-fee-refund-compliance/app.config.mjs",
+      "canonical": "state-cap-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-consumer-lending-fee-refund-compliance",
+      "sourceKey": "duplicate-fee-detection",
+      "source": "/Volumes/external/projects/ai-consumer-lending-fee-refund-compliance/app.config.mjs",
+      "canonical": "duplicate-fee-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-consumer-lending-fee-refund-compliance",
+      "sourceKey": "refund-amount-calculation",
+      "source": "/Volumes/external/projects/ai-consumer-lending-fee-refund-compliance/app.config.mjs",
+      "canonical": "refund-amount-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-consumer-lending-fee-refund-compliance",
+      "sourceKey": "consumer-notice-generation",
+      "source": "/Volumes/external/projects/ai-consumer-lending-fee-refund-compliance/app.config.mjs",
+      "canonical": "consumer-notice-generation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-consumer-lending-fee-refund-compliance",
+      "sourceKey": "complaint-linkage",
+      "source": "/Volumes/external/projects/ai-consumer-lending-fee-refund-compliance/app.config.mjs",
+      "canonical": "complaint-linkage",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-consumer-lending-fee-refund-compliance",
+      "sourceKey": "remediation-payment-tracking",
+      "source": "/Volumes/external/projects/ai-consumer-lending-fee-refund-compliance/app.config.mjs",
+      "canonical": "remediation-payment-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-consumer-lending-fee-refund-compliance",
+      "sourceKey": "product-fee-analytics",
+      "source": "/Volumes/external/projects/ai-consumer-lending-fee-refund-compliance/app.config.mjs",
+      "canonical": "product-fee-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-consumer-lending-fee-refund-compliance",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-consumer-lending-fee-refund-compliance/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-consumer-lending-fee-refund-compliance",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-consumer-lending-fee-refund-compliance/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-debt-facility-interest-fee-audit",
+      "sourceKey": "credit-agreement-library",
+      "source": "/Volumes/external/projects/ai-debt-facility-interest-fee-audit/app.config.mjs",
+      "canonical": "credit-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-debt-facility-interest-fee-audit",
+      "sourceKey": "facility-tranche-registry",
+      "source": "/Volumes/external/projects/ai-debt-facility-interest-fee-audit/app.config.mjs",
+      "canonical": "facility-tranche-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-debt-facility-interest-fee-audit",
+      "sourceKey": "borrowing-repayment-ledger",
+      "source": "/Volumes/external/projects/ai-debt-facility-interest-fee-audit/app.config.mjs",
+      "canonical": "borrowing-repayment-ledger",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-debt-facility-interest-fee-audit",
+      "sourceKey": "base-rate-spread-calculation",
+      "source": "/Volumes/external/projects/ai-debt-facility-interest-fee-audit/app.config.mjs",
+      "canonical": "base-rate-spread-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-debt-facility-interest-fee-audit",
+      "sourceKey": "interest-day-count-validation",
+      "source": "/Volumes/external/projects/ai-debt-facility-interest-fee-audit/app.config.mjs",
+      "canonical": "interest-day-count-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-debt-facility-interest-fee-audit",
+      "sourceKey": "sofr-floor-fallback-control",
+      "source": "/Volumes/external/projects/ai-debt-facility-interest-fee-audit/app.config.mjs",
+      "canonical": "sofr-floor-fallback-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-debt-facility-interest-fee-audit",
+      "sourceKey": "leverage-grid-pricing",
+      "source": "/Volumes/external/projects/ai-debt-facility-interest-fee-audit/app.config.mjs",
+      "canonical": "leverage-grid-pricing",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-debt-facility-interest-fee-audit",
+      "sourceKey": "unused-commitment-fee",
+      "source": "/Volumes/external/projects/ai-debt-facility-interest-fee-audit/app.config.mjs",
+      "canonical": "unused-commitment-fee",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-debt-facility-interest-fee-audit",
+      "sourceKey": "letter-of-credit-fee-audit",
+      "source": "/Volumes/external/projects/ai-debt-facility-interest-fee-audit/app.config.mjs",
+      "canonical": "letter-of-credit-fee-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-debt-facility-interest-fee-audit",
+      "sourceKey": "default-interest-validation",
+      "source": "/Volumes/external/projects/ai-debt-facility-interest-fee-audit/app.config.mjs",
+      "canonical": "default-interest-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-debt-facility-interest-fee-audit",
+      "sourceKey": "agent-lender-fee-reconciliation",
+      "source": "/Volumes/external/projects/ai-debt-facility-interest-fee-audit/app.config.mjs",
+      "canonical": "agent-lender-fee-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-debt-facility-interest-fee-audit",
+      "sourceKey": "compliance-certificate-linkage",
+      "source": "/Volumes/external/projects/ai-debt-facility-interest-fee-audit/app.config.mjs",
+      "canonical": "compliance-certificate-linkage",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-debt-facility-interest-fee-audit",
+      "sourceKey": "lender-statement-audit",
+      "source": "/Volumes/external/projects/ai-debt-facility-interest-fee-audit/app.config.mjs",
+      "canonical": "lender-statement-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-debt-facility-interest-fee-audit",
+      "sourceKey": "correction-workflow",
+      "source": "/Volumes/external/projects/ai-debt-facility-interest-fee-audit/app.config.mjs",
+      "canonical": "correction-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-debt-facility-interest-fee-audit",
+      "sourceKey": "facility-cost-analytics",
+      "source": "/Volumes/external/projects/ai-debt-facility-interest-fee-audit/app.config.mjs",
+      "canonical": "facility-cost-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-debt-facility-interest-fee-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-debt-facility-interest-fee-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-debt-facility-interest-fee-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-debt-facility-interest-fee-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-investor-claim-reimbursement-recovery",
+      "sourceKey": "investor-guide-library",
+      "source": "/Volumes/external/projects/ai-mortgage-investor-claim-reimbursement-recovery/app.config.mjs",
+      "canonical": "investor-guide-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-investor-claim-reimbursement-recovery",
+      "sourceKey": "default-loan-registry",
+      "source": "/Volumes/external/projects/ai-mortgage-investor-claim-reimbursement-recovery/app.config.mjs",
+      "canonical": "default-loan-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-investor-claim-reimbursement-recovery",
+      "sourceKey": "milestone-deadline-control",
+      "source": "/Volumes/external/projects/ai-mortgage-investor-claim-reimbursement-recovery/app.config.mjs",
+      "canonical": "milestone-deadline-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-investor-claim-reimbursement-recovery",
+      "sourceKey": "property-preservation-expense",
+      "source": "/Volumes/external/projects/ai-mortgage-investor-claim-reimbursement-recovery/app.config.mjs",
+      "canonical": "property-preservation-expense",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-investor-claim-reimbursement-recovery",
+      "sourceKey": "attorney-fee-validation",
+      "source": "/Volumes/external/projects/ai-mortgage-investor-claim-reimbursement-recovery/app.config.mjs",
+      "canonical": "attorney-fee-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-investor-claim-reimbursement-recovery",
+      "sourceKey": "tax-insurance-advances",
+      "source": "/Volumes/external/projects/ai-mortgage-investor-claim-reimbursement-recovery/app.config.mjs",
+      "canonical": "tax-insurance-advances",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-investor-claim-reimbursement-recovery",
+      "sourceKey": "conveyance-condition-tracking",
+      "source": "/Volumes/external/projects/ai-mortgage-investor-claim-reimbursement-recovery/app.config.mjs",
+      "canonical": "conveyance-condition-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-investor-claim-reimbursement-recovery",
+      "sourceKey": "claimable-expense-classification",
+      "source": "/Volumes/external/projects/ai-mortgage-investor-claim-reimbursement-recovery/app.config.mjs",
+      "canonical": "claimable-expense-classification",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-investor-claim-reimbursement-recovery",
+      "sourceKey": "interest-curtailment-calculation",
+      "source": "/Volumes/external/projects/ai-mortgage-investor-claim-reimbursement-recovery/app.config.mjs",
+      "canonical": "interest-curtailment-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-investor-claim-reimbursement-recovery",
+      "sourceKey": "claim-form-preparation",
+      "source": "/Volumes/external/projects/ai-mortgage-investor-claim-reimbursement-recovery/app.config.mjs",
+      "canonical": "claim-form-preparation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-investor-claim-reimbursement-recovery",
+      "sourceKey": "investor-exception-remediation",
+      "source": "/Volumes/external/projects/ai-mortgage-investor-claim-reimbursement-recovery/app.config.mjs",
+      "canonical": "investor-exception-remediation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-investor-claim-reimbursement-recovery",
+      "sourceKey": "supplemental-claim-workflow",
+      "source": "/Volumes/external/projects/ai-mortgage-investor-claim-reimbursement-recovery/app.config.mjs",
+      "canonical": "supplemental-claim-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-investor-claim-reimbursement-recovery",
+      "sourceKey": "reimbursement-matching",
+      "source": "/Volumes/external/projects/ai-mortgage-investor-claim-reimbursement-recovery/app.config.mjs",
+      "canonical": "reimbursement-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-investor-claim-reimbursement-recovery",
+      "sourceKey": "unrecovered-advance-ledger",
+      "source": "/Volumes/external/projects/ai-mortgage-investor-claim-reimbursement-recovery/app.config.mjs",
+      "canonical": "unrecovered-advance-ledger",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-investor-claim-reimbursement-recovery",
+      "sourceKey": "investor-vendor-analytics",
+      "source": "/Volumes/external/projects/ai-mortgage-investor-claim-reimbursement-recovery/app.config.mjs",
+      "canonical": "investor-vendor-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-investor-claim-reimbursement-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-mortgage-investor-claim-reimbursement-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-investor-claim-reimbursement-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-mortgage-investor-claim-reimbursement-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-servicing-escrow-advance-reconciliation",
+      "sourceKey": "loan-and-investor-registry",
+      "source": "/Volumes/external/projects/ai-mortgage-servicing-escrow-advance-reconciliation/app.config.mjs",
+      "canonical": "loan-and-investor-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-servicing-escrow-advance-reconciliation",
+      "sourceKey": "escrow-transaction-ledger",
+      "source": "/Volumes/external/projects/ai-mortgage-servicing-escrow-advance-reconciliation/app.config.mjs",
+      "canonical": "escrow-transaction-ledger",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-servicing-escrow-advance-reconciliation",
+      "sourceKey": "tax-disbursement-matching",
+      "source": "/Volumes/external/projects/ai-mortgage-servicing-escrow-advance-reconciliation/app.config.mjs",
+      "canonical": "tax-disbursement-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-servicing-escrow-advance-reconciliation",
+      "sourceKey": "insurance-disbursement-matching",
+      "source": "/Volumes/external/projects/ai-mortgage-servicing-escrow-advance-reconciliation/app.config.mjs",
+      "canonical": "insurance-disbursement-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-servicing-escrow-advance-reconciliation",
+      "sourceKey": "escrow-analysis-recalculation",
+      "source": "/Volumes/external/projects/ai-mortgage-servicing-escrow-advance-reconciliation/app.config.mjs",
+      "canonical": "escrow-analysis-recalculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-servicing-escrow-advance-reconciliation",
+      "sourceKey": "cushion-limit-validation",
+      "source": "/Volumes/external/projects/ai-mortgage-servicing-escrow-advance-reconciliation/app.config.mjs",
+      "canonical": "cushion-limit-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-servicing-escrow-advance-reconciliation",
+      "sourceKey": "shortage-and-surplus-calculation",
+      "source": "/Volumes/external/projects/ai-mortgage-servicing-escrow-advance-reconciliation/app.config.mjs",
+      "canonical": "shortage-and-surplus-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-servicing-escrow-advance-reconciliation",
+      "sourceKey": "force-placed-insurance-review",
+      "source": "/Volumes/external/projects/ai-mortgage-servicing-escrow-advance-reconciliation/app.config.mjs",
+      "canonical": "force-placed-insurance-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-servicing-escrow-advance-reconciliation",
+      "sourceKey": "corporate-advance-classification",
+      "source": "/Volumes/external/projects/ai-mortgage-servicing-escrow-advance-reconciliation/app.config.mjs",
+      "canonical": "corporate-advance-classification",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-servicing-escrow-advance-reconciliation",
+      "sourceKey": "recoverability-and-aging-analysis",
+      "source": "/Volumes/external/projects/ai-mortgage-servicing-escrow-advance-reconciliation/app.config.mjs",
+      "canonical": "recoverability-and-aging-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-servicing-escrow-advance-reconciliation",
+      "sourceKey": "suspense-account-reconciliation",
+      "source": "/Volumes/external/projects/ai-mortgage-servicing-escrow-advance-reconciliation/app.config.mjs",
+      "canonical": "suspense-account-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-servicing-escrow-advance-reconciliation",
+      "sourceKey": "servicing-transfer-reconciliation",
+      "source": "/Volumes/external/projects/ai-mortgage-servicing-escrow-advance-reconciliation/app.config.mjs",
+      "canonical": "servicing-transfer-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-servicing-escrow-advance-reconciliation",
+      "sourceKey": "investor-claim-preparation",
+      "source": "/Volumes/external/projects/ai-mortgage-servicing-escrow-advance-reconciliation/app.config.mjs",
+      "canonical": "investor-claim-preparation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-servicing-escrow-advance-reconciliation",
+      "sourceKey": "borrower-notice-evidence",
+      "source": "/Volumes/external/projects/ai-mortgage-servicing-escrow-advance-reconciliation/app.config.mjs",
+      "canonical": "borrower-notice-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-servicing-escrow-advance-reconciliation",
+      "sourceKey": "advance-recovery-ledger",
+      "source": "/Volumes/external/projects/ai-mortgage-servicing-escrow-advance-reconciliation/app.config.mjs",
+      "canonical": "advance-recovery-ledger",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-servicing-escrow-advance-reconciliation",
+      "sourceKey": "portfolio-and-vendor-analytics",
+      "source": "/Volumes/external/projects/ai-mortgage-servicing-escrow-advance-reconciliation/app.config.mjs",
+      "canonical": "portfolio-and-vendor-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-servicing-escrow-advance-reconciliation",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-mortgage-servicing-escrow-advance-reconciliation/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mortgage-servicing-escrow-advance-reconciliation",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-mortgage-servicing-escrow-advance-reconciliation/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-private-credit-covenant-monitoring",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-private-credit-covenant-monitoring/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-private-credit-covenant-monitoring",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-private-credit-covenant-monitoring/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-private-credit-covenant-monitoring",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-private-credit-covenant-monitoring/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-securitization-waterfall-trustee-reconciliation",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-securitization-waterfall-trustee-reconciliation/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-securitization-waterfall-trustee-reconciliation",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-securitization-waterfall-trustee-reconciliation/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-securitization-waterfall-trustee-reconciliation",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-securitization-waterfall-trustee-reconciliation/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/applicants",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "canonical": "applicants",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/assessments",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "canonical": "assessments",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/portfolio",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "canonical": "portfolio",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/fraud",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "canonical": "fraud",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/early-warning",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "canonical": "early-warning",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/covenant-breach-risk",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "canonical": "covenant-breach-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/collateral",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "canonical": "collateral",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/regulatory",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "canonical": "regulatory",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/ai-chat",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "canonical": "chat",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/features/credit-bureau-integrations",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "canonical": "features-credit-bureau-integrations",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/features/bank-cash-flow-analysis",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "canonical": "features-bank-cash-flow-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/features/document-ocr",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "canonical": "features-document-ocr",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/features/underwriting-rules-engine",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "canonical": "features-underwriting-rules-engine",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/features/approval-workflow",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "canonical": "features-approval-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/features/loan-origination",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "canonical": "features-loan-origination",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/features/adverse-action-mapping",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "canonical": "features-adverse-action-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/features/model-monitoring",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "canonical": "features-model-monitoring",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/features/decision-audit-trail",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "canonical": "features-decision-audit-trail",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/features/notifications-webhooks",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/features/customer-portal",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "canonical": "features-customer-portal",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/features/loan-officer-mobile",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "canonical": "features-loan-officer-mobile",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/features/rate-sheets-eligibility",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "canonical": "features-rate-sheets-eligibility",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/features/portfolio-stress-testing",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "canonical": "features-portfolio-stress-testing",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/features/examiner-reports",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "canonical": "features-examiner-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "peer-comparison",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/pages/AIAdvanced.jsx",
+      "canonical": "peer-comparison",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "auto-tier",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/pages/AIAdvanced.jsx",
+      "canonical": "auto-tier",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "similarity",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/pages/AIAdvanced.jsx",
+      "canonical": "similarity",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "risk-mitigation",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/pages/AIAdvanced.jsx",
+      "canonical": "risk-mitigation",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "scenario-simulation",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/pages/AIAdvanced.jsx",
+      "canonical": "scenario-simulation",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "adverse-action",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/pages/AIAdvanced.jsx",
+      "canonical": "adverse-action",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "market-benchmark",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/pages/AIAdvanced.jsx",
+      "canonical": "market-benchmark",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "macro-impact",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/pages/AIAdvanced.jsx",
+      "canonical": "macro-impact",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "predict-approval-likelihood",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/pages/AIAdvanced.jsx",
+      "canonical": "predict-approval-likelihood",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "generate-regulatory-narrative",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/pages/AIAdvanced.jsx",
+      "canonical": "generate-regulatory-narrative",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/applicants",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "applicants",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/portfolio",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "portfolio",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "/regulatory",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "regulatory",
+      "kind": "definition"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "cf/predictive-default-modeling",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent",
+      "canonical": "predictive-default-modeling",
+      "kind": "route"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "cf/collateral-aware-pricing",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent",
+      "canonical": "collateral-aware-pricing",
+      "kind": "route"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "cf/portfolio-concentration-analysis",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent",
+      "canonical": "portfolio-concentration-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "cf/regulatory-scenario-modeling",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent",
+      "canonical": "regulatory-scenario-modeling",
+      "kind": "route"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "cf/customer-lifetime-value-modeling",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent",
+      "canonical": "customer-lifetime-value-modeling",
+      "kind": "route"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "gap/applicants-lacks-predict-approval-likelihood",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent",
+      "canonical": "applicants-lacks-predict-approval-likelihood",
+      "kind": "route"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "gap/export-lacks-generate-regulatory-narrative",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent",
+      "canonical": "export-lacks-generate-regulatory-narrative",
+      "kind": "route"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "gap/assessments-lacks-ai-driven-underwriting-copilot",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent",
+      "canonical": "assessments-lacks-ai-driven-underwriting-copilot",
+      "kind": "route"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "gap/no-credit-bureau-integrations-equifax-experian-transunion",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent",
+      "canonical": "credit-bureau-integrations-equifax-experian-transunion",
+      "kind": "route"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "gap/no-workflow-automation-auto-approval-for-low-risk-auto-escal",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent",
+      "canonical": "workflow-automation-auto-approval-for-low-risk-auto-escal",
+      "kind": "route"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "gap/limited-third-party-integrations-no-salesforce-servicenow-co",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent",
+      "canonical": "limited-third-party-integrations-no-salesforce-servicenow-co",
+      "kind": "route"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "gap/no-loan-officer-mobile-app",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent",
+      "canonical": "loan-officer-mobile-app",
+      "kind": "route"
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "sourceKey": "gap/no-webhooks",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "debtors",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer/client/src/config/features.js",
+      "canonical": "debtors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "campaigns",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer/client/src/config/features.js",
+      "canonical": "campaigns",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "payment-plans",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer/client/src/config/features.js",
+      "canonical": "payment-plans",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "communications",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer/client/src/config/features.js",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "compliance",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer/client/src/config/features.js",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "risk",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer/client/src/config/features.js",
+      "canonical": "risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer/client/src/config/features.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "disputes",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer/client/src/config/features.js",
+      "canonical": "disputes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "payments",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer/client/src/config/features.js",
+      "canonical": "payments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "agents",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer/client/src/config/features.js",
+      "canonical": "agents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "portfolios",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer/client/src/config/features.js",
+      "canonical": "portfolios",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "settlements",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer/client/src/config/features.js",
+      "canonical": "settlements",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "schedules",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer/client/src/config/features.js",
+      "canonical": "schedules",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "regulatory",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer/client/src/config/features.js",
+      "canonical": "regulatory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "predictions",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer/client/src/config/features.js",
+      "canonical": "predictions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "score-debtor",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer/client/src/pages/AINewFeatures.jsx",
+      "canonical": "score-debtor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "predict-payment-likelihood",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer/client/src/pages/AINewFeatures.jsx",
+      "canonical": "predict-payment-likelihood",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "optimize-settlement-offer",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer/client/src/pages/AINewFeatures.jsx",
+      "canonical": "optimize-settlement-offer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "detect-fraud",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer/client/src/pages/AINewFeatures.jsx",
+      "canonical": "detect-fraud",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "analyze-payment-pattern",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer/client/src/pages/AINewFeatures.jsx",
+      "canonical": "analyze-payment-pattern",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "schedule-optimal-contact",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer/client/src/pages/AINewFeatures.jsx",
+      "canonical": "schedule-optimal-contact",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer",
+      "canonical": "reports",
+      "kind": "route"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer",
+      "canonical": "audit",
+      "kind": "route"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "calculator",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer",
+      "canonical": "calculator",
+      "kind": "route"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "ai-features",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer",
+      "canonical": "features",
+      "kind": "route"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "ai-new",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer",
+      "canonical": "new",
+      "kind": "route"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "hardship-program-fit",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer",
+      "canonical": "hardship-program-fit",
+      "kind": "route"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "cf/predictive-contact-strategy",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer",
+      "canonical": "predictive-contact-strategy",
+      "kind": "route"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "cf/dynamic-settlement-optimization",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer",
+      "canonical": "dynamic-settlement-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "cf/fraud-detection",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer",
+      "canonical": "fraud",
+      "kind": "route"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "cf/predictive-compliance-risk",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer",
+      "canonical": "predictive-compliance-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "cf/debtor-segmentation-targeting",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer",
+      "canonical": "debtor-segmentation-targeting",
+      "kind": "route"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "gap/critical-only-1-ai-endpoint-for-30-routes-missing-score-debt",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer",
+      "canonical": "critical-only-1-ai-endpoint-for-30-routes-missing-score-debt",
+      "kind": "route"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "gap/no-phone-system-integration-for-automated-outreach-sms-email",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer",
+      "canonical": "phone-system-integration-for-automated-outreach-sms-email",
+      "kind": "route"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "gap/limited-credit-bureau-integration",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer",
+      "canonical": "limited-credit-bureau-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "gap/no-automated-fdcpa-tcpa-compliance-validation-engine",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer",
+      "canonical": "automated-fdcpa-tcpa-compliance-validation-engine",
+      "kind": "route"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "gap/no-webhooks",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "gap/no-mobile-api-surface",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer",
+      "canonical": "mobile-api-surface",
+      "kind": "route"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "regulatory-alert-scan",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer",
+      "canonical": "regulatory-alert-scan",
+      "kind": "route"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "coaching-leaderboard",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer",
+      "canonical": "coaching-leaderboard",
+      "kind": "route"
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "sourceKey": "results",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer",
+      "canonical": "results",
+      "kind": "route"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "credit-risk",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "credit-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "income-verification",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "income-verification",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "dti-analysis",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "dti-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "borrower-profile",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "borrower-profile",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "loan-eligibility",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "loan-eligibility",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "product-advisor",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "product-advisor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "property-valuation",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "property-valuation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "market-analysis",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "market-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "appraisal-review",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "appraisal-review",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "comparable-sales",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "comparable-sales",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "insurance-requirements",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "insurance-requirements",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "underwriting-decision",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "underwriting-decision",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "fraud-detection",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "fraud",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "document-analysis",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "document-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "compliance-review",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "compliance-review",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "risk-score",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "risk-score",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "condition-generator",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "condition-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "rate-lock-advisory",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "rate-lock-advisory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "fee-estimate",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "fee-estimate",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "pipeline-optimizer",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "pipeline-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "workload-analysis",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "workload-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "rule-suggestion",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "rule-suggestion",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "audit-anomaly",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "audit-anomaly",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "notification-intelligence",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "notification-intelligence",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "portfolio-risk",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "portfolio-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "title-risk-assessment",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "title-risk-assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "closing-readiness",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/AICenter.jsx",
+      "canonical": "closing-readiness",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "/applications",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/Dashboard.jsx",
+      "canonical": "applications",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "/borrowers",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/Dashboard.jsx",
+      "canonical": "borrowers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "/properties",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/Dashboard.jsx",
+      "canonical": "properties",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "/documents",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/Dashboard.jsx",
+      "canonical": "documents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "/loan-products",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/Dashboard.jsx",
+      "canonical": "loan-products",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "/credit-reports",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/Dashboard.jsx",
+      "canonical": "credit-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "/income",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/Dashboard.jsx",
+      "canonical": "income",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "/appraisals",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/Dashboard.jsx",
+      "canonical": "appraisals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "/fees",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/Dashboard.jsx",
+      "canonical": "fees",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "/conditions",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/Dashboard.jsx",
+      "canonical": "conditions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "/compliance",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/Dashboard.jsx",
+      "canonical": "regulatory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "/risk",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/Dashboard.jsx",
+      "canonical": "assessments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "/pipeline",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/Dashboard.jsx",
+      "canonical": "pipeline",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "/rules",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/Dashboard.jsx",
+      "canonical": "rules",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "/audit",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/Dashboard.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "/notifications",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/Dashboard.jsx",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "/users",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/Dashboard.jsx",
+      "canonical": "users",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "compensating-factor-matrix",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant",
+      "canonical": "compensating-factor-matrix",
+      "kind": "route"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "gap/appraisal",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant",
+      "canonical": "appraisal",
+      "kind": "route"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "gap/asset-verification",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant",
+      "canonical": "asset-verification",
+      "kind": "route"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "gap/borrower",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant",
+      "canonical": "borrower",
+      "kind": "route"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "gap/closing-readiness",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant",
+      "canonical": "closing-readiness",
+      "kind": "route"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "gap/employment-verification",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant",
+      "canonical": "employment-verification",
+      "kind": "route"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "gap/e-signature",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant",
+      "canonical": "e-signature",
+      "kind": "route"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "gap/pricing",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant",
+      "canonical": "pricing",
+      "kind": "route"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "gap/third-party",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant",
+      "canonical": "third-party",
+      "kind": "route"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "gap/title",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant",
+      "canonical": "title",
+      "kind": "route"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "gap/title-risk-assessment",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant",
+      "canonical": "title-risk-assessment",
+      "kind": "route"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "gap/webhooks",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "gap/agentic",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant",
+      "canonical": "agentic",
+      "kind": "route"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "gap/autonomous",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant",
+      "canonical": "autonomous",
+      "kind": "route"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "gap/realtime",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant",
+      "canonical": "realtime",
+      "kind": "route"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "gap/vision",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant",
+      "canonical": "vision",
+      "kind": "route"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "missing-features",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant",
+      "canonical": "missing-features",
+      "kind": "route"
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "sourceKey": "production-readiness",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant",
+      "canonical": "production-readiness",
+      "kind": "route"
+    },
+    {
+      "project": "loan-servicing-loss-mitigation-suite",
+      "sourceKey": "rules",
+      "source": "/Volumes/external/projects/loan-servicing-loss-mitigation-suite/public/app.js",
+      "canonical": "rules",
+      "kind": "definition"
+    },
+    {
+      "project": "loan-servicing-loss-mitigation-suite",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/loan-servicing-loss-mitigation-suite/public/app.js",
+      "canonical": "reports",
+      "kind": "definition"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-consumer-lending-fee-refund-compliance",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-consumer-lending-fee-refund-compliance/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-debt-facility-interest-fee-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-debt-facility-interest-fee-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-mortgage-investor-claim-reimbursement-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-mortgage-investor-claim-reimbursement-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-mortgage-servicing-escrow-advance-reconciliation",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-mortgage-servicing-escrow-advance-reconciliation/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "key": "/",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "key": "/pricing",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "key": "/ai-advanced",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "key": "pricing",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "key": "ai-advanced",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AICreditRiskAssessmentAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICreditRiskAssessmentAgent",
+      "key": "/features/:slug",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "key": "/feature/:featureKey",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "key": "/debtor/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AIDebtCollectionOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "key": "/payment-plan-recommend/:debtor_id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDebtCollectionOptimizer",
+      "key": "/dispute-triage/:dispute_id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "key": "/ai",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant/client/src/pages/Dashboard.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "key": "/applications/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "key": "/borrowers/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "key": "/properties/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "key": "ai",
+      "source": "/Volumes/external/projects/AIMortgageUnderwritingAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "key": "/operations/:moduleKey",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIMortgageUnderwritingAssistant",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "loan-servicing-loss-mitigation-suite",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/loan-servicing-loss-mitigation-suite/public/app.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "loan-servicing-loss-mitigation-suite",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/loan-servicing-loss-mitigation-suite/public/app.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "feature": "product-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "fee-schedule-versioning",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "account-transaction-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "late-fee-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "nsf-fee-sequence-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "convenience-fee-review",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "add-on-product-consent",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "military-status-protections",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "state-cap-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "duplicate-fee-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refund-amount-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "consumer-notice-generation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "complaint-linkage",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "remediation-payment-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "product-fee-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "facility-tranche-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "borrowing-repayment-ledger",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "base-rate-spread-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "interest-day-count-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "sofr-floor-fallback-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "leverage-grid-pricing",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "unused-commitment-fee",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "letter-of-credit-fee-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "default-interest-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "agent-lender-fee-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "compliance-certificate-linkage",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "lender-statement-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "correction-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "facility-cost-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "investor-guide-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "default-loan-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "milestone-deadline-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "property-preservation-expense",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "attorney-fee-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tax-insurance-advances",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "conveyance-condition-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "claimable-expense-classification",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "interest-curtailment-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "claim-form-preparation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "investor-exception-remediation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supplemental-claim-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "reimbursement-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "unrecovered-advance-ledger",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "investor-vendor-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "loan-and-investor-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "escrow-transaction-ledger",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tax-disbursement-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "insurance-disbursement-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "escrow-analysis-recalculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cushion-limit-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "shortage-and-surplus-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "force-placed-insurance-review",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "corporate-advance-classification",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "recoverability-and-aging-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "suspense-account-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "servicing-transfer-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "investor-claim-preparation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "borrower-notice-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "advance-recovery-ledger",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "portfolio-and-vendor-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    }
+  ]
+}

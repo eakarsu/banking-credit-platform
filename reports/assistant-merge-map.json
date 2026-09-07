@@ -1,0 +1,819 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "adverse-action",
+      "document-analysis"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 5 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "adverse-action",
+        "title": "Adverse Action Letter",
+        "originalPath": "/features/adverse-action"
+      },
+      {
+        "id": "document-analysis",
+        "title": "Document Analysis",
+        "originalPath": "/features/document-analysis"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "product-agreement-library",
+      "account-transaction-ingestion",
+      "military-status-protections",
+      "consumer-notice-generation",
+      "complaint-linkage",
+      "facility-tranche-registry",
+      "base-rate-spread-calculation",
+      "correction-workflow",
+      "investor-guide-library",
+      "default-loan-registry",
+      "property-preservation-expense",
+      "conveyance-condition-tracking",
+      "interest-curtailment-calculation",
+      "claim-form-preparation",
+      "supplemental-claim-workflow",
+      "unrecovered-advance-ledger",
+      "investor-vendor-analytics",
+      "loan-and-investor-registry",
+      "escrow-transaction-ledger",
+      "shortage-and-surplus-calculation",
+      "force-placed-insurance-review",
+      "investor-claim-preparation",
+      "advance-recovery-ledger",
+      "portfolio-and-vendor-analytics",
+      "chat",
+      "auto-tier",
+      "similarity",
+      "scenario-simulation",
+      "macro-impact",
+      "assessments-lacks-ai-driven-underwriting-copilot",
+      "features",
+      "new",
+      "product-advisor",
+      "property-valuation",
+      "appraisal-review",
+      "insurance-requirements",
+      "underwriting-decision",
+      "condition-generator",
+      "rate-lock-advisory",
+      "rule-suggestion",
+      "notification-intelligence",
+      "closing-readiness",
+      "appraisal"
+    ],
+    "ai": true,
+    "representativeId": "product-agreement-library",
+    "description": "One assistant for 43 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "product-agreement-library",
+        "title": "Product agreement library",
+        "originalPath": "/features/product-agreement-library"
+      },
+      {
+        "id": "account-transaction-ingestion",
+        "title": "Account transaction ingestion",
+        "originalPath": "/features/account-transaction-ingestion"
+      },
+      {
+        "id": "military-status-protections",
+        "title": "Military status protections",
+        "originalPath": "/features/military-status-protections"
+      },
+      {
+        "id": "consumer-notice-generation",
+        "title": "Consumer notice generation",
+        "originalPath": "/features/consumer-notice-generation"
+      },
+      {
+        "id": "complaint-linkage",
+        "title": "Complaint linkage",
+        "originalPath": "/features/complaint-linkage"
+      },
+      {
+        "id": "facility-tranche-registry",
+        "title": "Facility tranche registry",
+        "originalPath": "/features/facility-tranche-registry"
+      },
+      {
+        "id": "base-rate-spread-calculation",
+        "title": "Base rate spread calculation",
+        "originalPath": "/features/base-rate-spread-calculation"
+      },
+      {
+        "id": "correction-workflow",
+        "title": "Correction workflow",
+        "originalPath": "/features/correction-workflow"
+      },
+      {
+        "id": "investor-guide-library",
+        "title": "Investor guide library",
+        "originalPath": "/features/investor-guide-library"
+      },
+      {
+        "id": "default-loan-registry",
+        "title": "Default loan registry",
+        "originalPath": "/features/default-loan-registry"
+      },
+      {
+        "id": "property-preservation-expense",
+        "title": "Property preservation expense",
+        "originalPath": "/features/property-preservation-expense"
+      },
+      {
+        "id": "conveyance-condition-tracking",
+        "title": "Conveyance condition tracking",
+        "originalPath": "/features/conveyance-condition-tracking"
+      },
+      {
+        "id": "interest-curtailment-calculation",
+        "title": "Interest curtailment calculation",
+        "originalPath": "/features/interest-curtailment-calculation"
+      },
+      {
+        "id": "claim-form-preparation",
+        "title": "Claim form preparation",
+        "originalPath": "/features/claim-form-preparation"
+      },
+      {
+        "id": "supplemental-claim-workflow",
+        "title": "Supplemental claim workflow",
+        "originalPath": "/features/supplemental-claim-workflow"
+      },
+      {
+        "id": "unrecovered-advance-ledger",
+        "title": "Unrecovered advance ledger",
+        "originalPath": "/features/unrecovered-advance-ledger"
+      },
+      {
+        "id": "investor-vendor-analytics",
+        "title": "Investor vendor analytics",
+        "originalPath": "/features/investor-vendor-analytics"
+      },
+      {
+        "id": "loan-and-investor-registry",
+        "title": "Loan and investor registry",
+        "originalPath": "/features/loan-and-investor-registry"
+      },
+      {
+        "id": "escrow-transaction-ledger",
+        "title": "Escrow transaction ledger",
+        "originalPath": "/features/escrow-transaction-ledger"
+      },
+      {
+        "id": "shortage-and-surplus-calculation",
+        "title": "Shortage and surplus calculation",
+        "originalPath": "/features/shortage-and-surplus-calculation"
+      },
+      {
+        "id": "force-placed-insurance-review",
+        "title": "Force-placed insurance review",
+        "originalPath": "/features/force-placed-insurance-review"
+      },
+      {
+        "id": "investor-claim-preparation",
+        "title": "Investor claim preparation",
+        "originalPath": "/features/investor-claim-preparation"
+      },
+      {
+        "id": "advance-recovery-ledger",
+        "title": "Advance recovery ledger",
+        "originalPath": "/features/advance-recovery-ledger"
+      },
+      {
+        "id": "portfolio-and-vendor-analytics",
+        "title": "Portfolio and vendor analytics",
+        "originalPath": "/features/portfolio-and-vendor-analytics"
+      },
+      {
+        "id": "chat",
+        "title": "AI Assistant",
+        "originalPath": "/features/chat"
+      },
+      {
+        "id": "auto-tier",
+        "title": "Auto-Tier Assignment",
+        "originalPath": "/features/auto-tier"
+      },
+      {
+        "id": "similarity",
+        "title": "Applicant Similarity",
+        "originalPath": "/features/similarity"
+      },
+      {
+        "id": "scenario-simulation",
+        "title": "Scenario Simulation",
+        "originalPath": "/features/scenario-simulation"
+      },
+      {
+        "id": "macro-impact",
+        "title": "Macro Economic Impact",
+        "originalPath": "/features/macro-impact"
+      },
+      {
+        "id": "assessments-lacks-ai-driven-underwriting-copilot",
+        "title": "Assessments lacks ai driven underwriting copilot",
+        "originalPath": "/features/assessments-lacks-ai-driven-underwriting-copilot"
+      },
+      {
+        "id": "features",
+        "title": "Features",
+        "originalPath": "/features/features"
+      },
+      {
+        "id": "new",
+        "title": "New",
+        "originalPath": "/features/new"
+      },
+      {
+        "id": "product-advisor",
+        "title": "Loan Product Advisor",
+        "originalPath": "/features/product-advisor"
+      },
+      {
+        "id": "property-valuation",
+        "title": "Property Valuation",
+        "originalPath": "/features/property-valuation"
+      },
+      {
+        "id": "appraisal-review",
+        "title": "Appraisal Review",
+        "originalPath": "/features/appraisal-review"
+      },
+      {
+        "id": "insurance-requirements",
+        "title": "Insurance Requirements",
+        "originalPath": "/features/insurance-requirements"
+      },
+      {
+        "id": "underwriting-decision",
+        "title": "Underwriting Decision",
+        "originalPath": "/features/underwriting-decision"
+      },
+      {
+        "id": "condition-generator",
+        "title": "Condition Generator",
+        "originalPath": "/features/condition-generator"
+      },
+      {
+        "id": "rate-lock-advisory",
+        "title": "Rate Lock Advisory",
+        "originalPath": "/features/rate-lock-advisory"
+      },
+      {
+        "id": "rule-suggestion",
+        "title": "Rule Suggestions",
+        "originalPath": "/features/rule-suggestion"
+      },
+      {
+        "id": "notification-intelligence",
+        "title": "Smart Notifications",
+        "originalPath": "/features/notification-intelligence"
+      },
+      {
+        "id": "closing-readiness",
+        "title": "Closing Readiness",
+        "originalPath": "/features/closing-readiness"
+      },
+      {
+        "id": "appraisal",
+        "title": "Appraisal",
+        "originalPath": "/features/appraisal"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "fee-schedule-versioning",
+      "schedule-optimal-contact",
+      "workload-analysis"
+    ],
+    "ai": true,
+    "representativeId": "fee-schedule-versioning",
+    "description": "One assistant for 3 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "fee-schedule-versioning",
+        "title": "Fee schedule versioning",
+        "originalPath": "/features/fee-schedule-versioning"
+      },
+      {
+        "id": "schedule-optimal-contact",
+        "title": "Schedule Optimal Contact",
+        "originalPath": "/features/schedule-optimal-contact"
+      },
+      {
+        "id": "workload-analysis",
+        "title": "Workload Analysis",
+        "originalPath": "/features/workload-analysis"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "late-fee-validation",
+      "nsf-fee-sequence-analysis",
+      "convenience-fee-review",
+      "duplicate-fee-detection",
+      "refund-amount-calculation",
+      "remediation-payment-tracking",
+      "product-fee-analytics",
+      "credit-agreement-library",
+      "borrowing-repayment-ledger",
+      "leverage-grid-pricing",
+      "unused-commitment-fee",
+      "letter-of-credit-fee-audit",
+      "agent-lender-fee-reconciliation",
+      "facility-cost-analytics",
+      "attorney-fee-validation",
+      "tax-insurance-advances",
+      "reimbursement-matching",
+      "tax-disbursement-matching",
+      "suspense-account-reconciliation",
+      "servicing-transfer-reconciliation",
+      "predict-payment-likelihood",
+      "optimize-settlement-offer",
+      "analyze-payment-pattern",
+      "credit-risk",
+      "fee-estimate"
+    ],
+    "ai": true,
+    "representativeId": "late-fee-validation",
+    "description": "One assistant for 25 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "late-fee-validation",
+        "title": "Late fee validation",
+        "originalPath": "/features/late-fee-validation"
+      },
+      {
+        "id": "nsf-fee-sequence-analysis",
+        "title": "NSF fee sequence analysis",
+        "originalPath": "/features/nsf-fee-sequence-analysis"
+      },
+      {
+        "id": "convenience-fee-review",
+        "title": "Convenience fee review",
+        "originalPath": "/features/convenience-fee-review"
+      },
+      {
+        "id": "duplicate-fee-detection",
+        "title": "Duplicate fee detection",
+        "originalPath": "/features/duplicate-fee-detection"
+      },
+      {
+        "id": "refund-amount-calculation",
+        "title": "Refund amount calculation",
+        "originalPath": "/features/refund-amount-calculation"
+      },
+      {
+        "id": "remediation-payment-tracking",
+        "title": "Remediation payment tracking",
+        "originalPath": "/features/remediation-payment-tracking"
+      },
+      {
+        "id": "product-fee-analytics",
+        "title": "Product fee analytics",
+        "originalPath": "/features/product-fee-analytics"
+      },
+      {
+        "id": "credit-agreement-library",
+        "title": "Credit agreement library",
+        "originalPath": "/features/credit-agreement-library"
+      },
+      {
+        "id": "borrowing-repayment-ledger",
+        "title": "Borrowing repayment ledger",
+        "originalPath": "/features/borrowing-repayment-ledger"
+      },
+      {
+        "id": "leverage-grid-pricing",
+        "title": "Leverage grid pricing",
+        "originalPath": "/features/leverage-grid-pricing"
+      },
+      {
+        "id": "unused-commitment-fee",
+        "title": "Unused commitment fee",
+        "originalPath": "/features/unused-commitment-fee"
+      },
+      {
+        "id": "letter-of-credit-fee-audit",
+        "title": "Letter-of-credit fee audit",
+        "originalPath": "/features/letter-of-credit-fee-audit"
+      },
+      {
+        "id": "agent-lender-fee-reconciliation",
+        "title": "Agent lender fee reconciliation",
+        "originalPath": "/features/agent-lender-fee-reconciliation"
+      },
+      {
+        "id": "facility-cost-analytics",
+        "title": "Facility cost analytics",
+        "originalPath": "/features/facility-cost-analytics"
+      },
+      {
+        "id": "attorney-fee-validation",
+        "title": "Attorney fee validation",
+        "originalPath": "/features/attorney-fee-validation"
+      },
+      {
+        "id": "tax-insurance-advances",
+        "title": "Tax insurance advances",
+        "originalPath": "/features/tax-insurance-advances"
+      },
+      {
+        "id": "reimbursement-matching",
+        "title": "Reimbursement matching",
+        "originalPath": "/features/reimbursement-matching"
+      },
+      {
+        "id": "tax-disbursement-matching",
+        "title": "Tax disbursement matching",
+        "originalPath": "/features/tax-disbursement-matching"
+      },
+      {
+        "id": "suspense-account-reconciliation",
+        "title": "Suspense-account reconciliation",
+        "originalPath": "/features/suspense-account-reconciliation"
+      },
+      {
+        "id": "servicing-transfer-reconciliation",
+        "title": "Servicing-transfer reconciliation",
+        "originalPath": "/features/servicing-transfer-reconciliation"
+      },
+      {
+        "id": "predict-payment-likelihood",
+        "title": "Predict Payment Likelihood",
+        "originalPath": "/features/predict-payment-likelihood"
+      },
+      {
+        "id": "optimize-settlement-offer",
+        "title": "Optimize Settlement Offer",
+        "originalPath": "/features/optimize-settlement-offer"
+      },
+      {
+        "id": "analyze-payment-pattern",
+        "title": "Analyze Payment Pattern",
+        "originalPath": "/features/analyze-payment-pattern"
+      },
+      {
+        "id": "credit-risk",
+        "title": "Credit Risk Assessment",
+        "originalPath": "/features/credit-risk"
+      },
+      {
+        "id": "fee-estimate",
+        "title": "Fee Estimator",
+        "originalPath": "/features/fee-estimate"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "add-on-product-consent",
+      "state-cap-validation",
+      "interest-day-count-validation",
+      "sofr-floor-fallback-control",
+      "default-interest-validation",
+      "compliance-certificate-linkage",
+      "lender-statement-audit",
+      "milestone-deadline-control",
+      "investor-exception-remediation",
+      "cushion-limit-validation",
+      "borrower-notice-evidence",
+      "assessments",
+      "fraud",
+      "risk-mitigation",
+      "generate-regulatory-narrative",
+      "risk",
+      "detect-fraud",
+      "predictive-compliance-risk",
+      "income-verification",
+      "loan-eligibility",
+      "compliance-review",
+      "risk-score",
+      "audit-anomaly",
+      "portfolio-risk",
+      "title-risk-assessment"
+    ],
+    "ai": true,
+    "representativeId": "add-on-product-consent",
+    "description": "One assistant for 25 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "add-on-product-consent",
+        "title": "Add-on product consent",
+        "originalPath": "/features/add-on-product-consent"
+      },
+      {
+        "id": "state-cap-validation",
+        "title": "State cap validation",
+        "originalPath": "/features/state-cap-validation"
+      },
+      {
+        "id": "interest-day-count-validation",
+        "title": "Interest day-count validation",
+        "originalPath": "/features/interest-day-count-validation"
+      },
+      {
+        "id": "sofr-floor-fallback-control",
+        "title": "SOFR floor fallback control",
+        "originalPath": "/features/sofr-floor-fallback-control"
+      },
+      {
+        "id": "default-interest-validation",
+        "title": "Default interest validation",
+        "originalPath": "/features/default-interest-validation"
+      },
+      {
+        "id": "compliance-certificate-linkage",
+        "title": "Compliance certificate linkage",
+        "originalPath": "/features/compliance-certificate-linkage"
+      },
+      {
+        "id": "lender-statement-audit",
+        "title": "Lender statement audit",
+        "originalPath": "/features/lender-statement-audit"
+      },
+      {
+        "id": "milestone-deadline-control",
+        "title": "Milestone deadline control",
+        "originalPath": "/features/milestone-deadline-control"
+      },
+      {
+        "id": "investor-exception-remediation",
+        "title": "Investor exception remediation",
+        "originalPath": "/features/investor-exception-remediation"
+      },
+      {
+        "id": "cushion-limit-validation",
+        "title": "Cushion-limit validation",
+        "originalPath": "/features/cushion-limit-validation"
+      },
+      {
+        "id": "borrower-notice-evidence",
+        "title": "Borrower notice evidence",
+        "originalPath": "/features/borrower-notice-evidence"
+      },
+      {
+        "id": "assessments",
+        "title": "Risk Assessments",
+        "originalPath": "/features/assessments"
+      },
+      {
+        "id": "fraud",
+        "title": "Fraud Detection",
+        "originalPath": "/features/fraud"
+      },
+      {
+        "id": "risk-mitigation",
+        "title": "Risk Mitigation",
+        "originalPath": "/features/risk-mitigation"
+      },
+      {
+        "id": "generate-regulatory-narrative",
+        "title": "Regulatory Narrative",
+        "originalPath": "/features/generate-regulatory-narrative"
+      },
+      {
+        "id": "risk",
+        "title": "Risk Assessment",
+        "originalPath": "/features/risk"
+      },
+      {
+        "id": "detect-fraud",
+        "title": "Detect Fraud",
+        "originalPath": "/features/detect-fraud"
+      },
+      {
+        "id": "predictive-compliance-risk",
+        "title": "Predictive compliance risk",
+        "originalPath": "/features/predictive-compliance-risk"
+      },
+      {
+        "id": "income-verification",
+        "title": "Income Verification",
+        "originalPath": "/features/income-verification"
+      },
+      {
+        "id": "loan-eligibility",
+        "title": "Loan Eligibility",
+        "originalPath": "/features/loan-eligibility"
+      },
+      {
+        "id": "compliance-review",
+        "title": "Compliance Review",
+        "originalPath": "/features/compliance-review"
+      },
+      {
+        "id": "risk-score",
+        "title": "Risk Scoring",
+        "originalPath": "/features/risk-score"
+      },
+      {
+        "id": "audit-anomaly",
+        "title": "Audit Anomaly Detection",
+        "originalPath": "/features/audit-anomaly"
+      },
+      {
+        "id": "portfolio-risk",
+        "title": "Portfolio Risk Analysis",
+        "originalPath": "/features/portfolio-risk"
+      },
+      {
+        "id": "title-risk-assessment",
+        "title": "Title Risk Assessment",
+        "originalPath": "/features/title-risk-assessment"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "claimable-expense-classification",
+      "insurance-disbursement-matching",
+      "escrow-analysis-recalculation",
+      "corporate-advance-classification",
+      "recoverability-and-aging-analysis",
+      "peer-comparison",
+      "market-benchmark",
+      "predict-approval-likelihood",
+      "predictive-default-modeling",
+      "portfolio-concentration-analysis",
+      "applicants-lacks-predict-approval-likelihood",
+      "predictions",
+      "score-debtor",
+      "predictive-contact-strategy",
+      "critical-only-1-ai-endpoint-for-30-routes-missing-score-debt",
+      "dti-analysis",
+      "borrower-profile",
+      "market-analysis",
+      "pipeline-optimizer"
+    ],
+    "ai": true,
+    "representativeId": "claimable-expense-classification",
+    "description": "One assistant for 19 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "claimable-expense-classification",
+        "title": "Claimable expense classification",
+        "originalPath": "/features/claimable-expense-classification"
+      },
+      {
+        "id": "insurance-disbursement-matching",
+        "title": "Insurance disbursement matching",
+        "originalPath": "/features/insurance-disbursement-matching"
+      },
+      {
+        "id": "escrow-analysis-recalculation",
+        "title": "Escrow analysis recalculation",
+        "originalPath": "/features/escrow-analysis-recalculation"
+      },
+      {
+        "id": "corporate-advance-classification",
+        "title": "Corporate advance classification",
+        "originalPath": "/features/corporate-advance-classification"
+      },
+      {
+        "id": "recoverability-and-aging-analysis",
+        "title": "Recoverability and aging analysis",
+        "originalPath": "/features/recoverability-and-aging-analysis"
+      },
+      {
+        "id": "peer-comparison",
+        "title": "Peer Comparison Scoring",
+        "originalPath": "/features/peer-comparison"
+      },
+      {
+        "id": "market-benchmark",
+        "title": "Market Rate Benchmark",
+        "originalPath": "/features/market-benchmark"
+      },
+      {
+        "id": "predict-approval-likelihood",
+        "title": "Predict Approval Likelihood",
+        "originalPath": "/features/predict-approval-likelihood"
+      },
+      {
+        "id": "predictive-default-modeling",
+        "title": "Predictive default modeling",
+        "originalPath": "/features/predictive-default-modeling"
+      },
+      {
+        "id": "portfolio-concentration-analysis",
+        "title": "Portfolio concentration analysis",
+        "originalPath": "/features/portfolio-concentration-analysis"
+      },
+      {
+        "id": "applicants-lacks-predict-approval-likelihood",
+        "title": "Applicants lacks predict approval likelihood",
+        "originalPath": "/features/applicants-lacks-predict-approval-likelihood"
+      },
+      {
+        "id": "predictions",
+        "title": "Recovery Predictions",
+        "originalPath": "/features/predictions"
+      },
+      {
+        "id": "score-debtor",
+        "title": "Score Debtor",
+        "originalPath": "/features/score-debtor"
+      },
+      {
+        "id": "predictive-contact-strategy",
+        "title": "Predictive contact strategy",
+        "originalPath": "/features/predictive-contact-strategy"
+      },
+      {
+        "id": "critical-only-1-ai-endpoint-for-30-routes-missing-score-debt",
+        "title": "Critical only 1 ai endpoint for 30 routes missing score debt",
+        "originalPath": "/features/critical-only-1-ai-endpoint-for-30-routes-missing-score-debt"
+      },
+      {
+        "id": "dti-analysis",
+        "title": "DTI Analysis",
+        "originalPath": "/features/dti-analysis"
+      },
+      {
+        "id": "borrower-profile",
+        "title": "Borrower Profile Analysis",
+        "originalPath": "/features/borrower-profile"
+      },
+      {
+        "id": "market-analysis",
+        "title": "Market Analysis",
+        "originalPath": "/features/market-analysis"
+      },
+      {
+        "id": "pipeline-optimizer",
+        "title": "Pipeline Optimizer",
+        "originalPath": "/features/pipeline-optimizer"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "comparable-sales"
+    ],
+    "ai": true,
+    "representativeId": "comparable-sales",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "comparable-sales",
+        "title": "Comparable Sales Analysis",
+        "originalPath": "/features/comparable-sales"
+      }
+    ]
+  }
+]

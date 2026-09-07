@@ -1,0 +1,35 @@
+{
+  "id": "banking-credit-platform",
+  "title": "Lending, mortgage & credit operations",
+  "buyer": "Lenders, servicers and credit teams",
+  "sourceCount": 10,
+  "sources": [
+    "ai-consumer-lending-fee-refund-compliance",
+    "ai-debt-facility-interest-fee-audit",
+    "ai-mortgage-investor-claim-reimbursement-recovery",
+    "ai-mortgage-servicing-escrow-advance-reconciliation",
+    "ai-private-credit-covenant-monitoring",
+    "ai-securitization-waterfall-trustee-reconciliation",
+    "AICreditRiskAssessmentAgent",
+    "AIDebtCollectionOptimizer",
+    "AIMortgageUnderwritingAssistant",
+    "loan-servicing-loss-mitigation-suite"
+  ],
+  "status": "proposed build; not implemented",
+  "canonicalFeatureStatus": "Requires feature-level mapping and workflow migration; source route counts are not feature-completion counts.",
+  "port": 46015,
+  "productName": "Lending, mortgage Workspace",
+  "runtimeVersion": "1.0.0",
+  "sourceRoots": [
+    "/Volumes/external/projects/ai-consumer-lending-fee-refund-compliance",
+    "/Volumes/external/projects/ai-debt-facility-interest-fee-audit",
+    "/Volumes/external/projects/ai-mortgage-investor-claim-reimbursement-recovery",
+    "/Volumes/external/projects/ai-mortgage-servicing-escrow-advance-reconciliation",
+    "/Volumes/external/projects/ai-private-credit-covenant-monitoring",
+    "/Volumes/external/projects/ai-securitization-waterfall-trustee-reconciliation",
+    "/Volumes/external/projects/AICreditRiskAssessmentAgent",
+    "/Volumes/external/projects/AIDebtCollectionOptimizer",
+    "/Volumes/external/projects/AIMortgageUnderwritingAssistant",
+    "/Volumes/external/projects/loan-servicing-loss-mitigation-suite"
+  ]
+}

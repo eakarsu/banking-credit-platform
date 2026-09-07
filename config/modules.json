@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ai-consumer-lending-fee-refund-compliance",
+    "name": "Consumer lending fee refund compliance",
+    "sourceProject": "ai-consumer-lending-fee-refund-compliance",
+    "services": []
+  },
+  {
+    "id": "ai-debt-facility-interest-fee-audit",
+    "name": "Debt facility interest fee audit",
+    "sourceProject": "ai-debt-facility-interest-fee-audit",
+    "services": []
+  },
+  {
+    "id": "ai-mortgage-investor-claim-reimbursement-recovery",
+    "name": "Mortgage investor claim reimbursement recovery",
+    "sourceProject": "ai-mortgage-investor-claim-reimbursement-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-mortgage-servicing-escrow-advance-reconciliation",
+    "name": "Mortgage servicing escrow advance reconciliation",
+    "sourceProject": "ai-mortgage-servicing-escrow-advance-reconciliation",
+    "services": []
+  },
+  {
+    "id": "ai-private-credit-covenant-monitoring",
+    "name": "Private credit covenant monitoring",
+    "sourceProject": "ai-private-credit-covenant-monitoring",
+    "services": []
+  },
+  {
+    "id": "ai-securitization-waterfall-trustee-reconciliation",
+    "name": "Securitization waterfall trustee reconciliation",
+    "sourceProject": "ai-securitization-waterfall-trustee-reconciliation",
+    "services": []
+  },
+  {
+    "id": "AICreditRiskAssessmentAgent",
+    "name": "Credit risk assessment agent",
+    "sourceProject": "AICreditRiskAssessmentAgent",
+    "services": []
+  },
+  {
+    "id": "AIDebtCollectionOptimizer",
+    "name": "Debt collection optimizer",
+    "sourceProject": "AIDebtCollectionOptimizer",
+    "services": []
+  },
+  {
+    "id": "AIMortgageUnderwritingAssistant",
+    "name": "Mortgage underwriting assistant",
+    "sourceProject": "AIMortgageUnderwritingAssistant",
+    "services": []
+  },
+  {
+    "id": "loan-servicing-loss-mitigation-suite",
+    "name": "Loan servicing loss mitigation suite",
+    "sourceProject": "loan-servicing-loss-mitigation-suite",
+    "services": []
+  }
+]

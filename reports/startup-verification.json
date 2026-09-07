@@ -1,0 +1,8 @@
+{
+  "id": "banking-credit-platform",
+  "port": 46015,
+  "status": "passed",
+  "startScript": true,
+  "health": true,
+  "verifiedAt": "2026-09-07T14:38:31.945Z"
+}
